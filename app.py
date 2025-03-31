@@ -7,7 +7,6 @@ from artvee_scraper.artwork import Artwork
 from artvee_scraper.scraper import ArtveeScraper
 
 
-
 # Set up logging configuration
 logging.basicConfig(
     level=logging.DEBUG,
